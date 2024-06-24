@@ -1,6 +1,7 @@
-resume_url: "Resume.pdf"
-author_name: "John Doe"
-url: johndoe.com
+git_url: "https://github.com/goldepond"
+blog_url: "https://wtfiwanasleep.blogspot.com/"
+author_name: "김이택 "
+url: goldepond.github.io
 
 plugins:
   - jekyll-seo-tag
@@ -11,6 +12,7 @@ plugins:
   - jekyll-assets
   - sprockets
   - autoprefixer-rails
+  - jemoji
 
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem

@@ -1,22 +1,37 @@
 <ul>
       <li>
         <a href = "{{ '/' | relative_url }}">
-          Home
+          홈
         </a>
       </li>
+      
+      <li>
+        <a href = "{{ 'introduce/' | relative_url }}">
+          자기소개
+        </a>
+      </li>
+      
       <li>
         <a href = "{{ 'about/' | relative_url }}">
-          About
+          Skill
         </a>
       </li>
+      
       <li>
         <a href = "{{ 'blog/' | relative_url }}">
+          Project
+        </a>
+      </li>
+       
+      <li>
+        <a href = "{{ site.blog_url | relative_url }}">
           Blog
         </a>
       </li>
       <li>
-        <a href = "{{ site.resume_url | relative_url }}">
-          Resume
+            
+        <a href = "{{ site.git_url | relative_url }}">
+          GitHub
         </a>
       </li>
 </ul>

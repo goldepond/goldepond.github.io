@@ -27,7 +27,8 @@ This is a minimal jekyll theme for writing blogs and about yourself.
  2. Dark mode
  3. Disqus comments
  4. Categorization
- 5. Highly optimized blog
+ 5. Emojis Support
+ 6. Highly optimized blog
      #### PageSpeed Insights
      * [Home](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com)[(therohitjain.com)](https://therohitjain.com)
      * [Blog](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/blog/)[(therohitjain.com/blog/)](https://therohitjain.com/blog/)
@@ -73,7 +74,10 @@ Or install it yourself as:
 
 To start using the theme you either follow these steps or simply fork my repo https://github.com/rohitjain00/rohitjain00.github.io and update the files.
 
-### Clone the branch `cloneAndUse`[here](https://github.com/rohitjain00/dev-portfolio-blog/tree/cloneAndUse) and change the theme accordingly.
+### Recommended
+ Please use the theme as the plugin so that all the latest updated for this theme comes directly in your website.
+
+#### Clone the branch `master` and change the theme accordingly.
 
 
 ### Starting from the beginning:
